@@ -8,4 +8,6 @@ global with sharing class AccountController {
         throw new AuraHandledException(e.getMessage());
       }
     }
+
+    
   }
